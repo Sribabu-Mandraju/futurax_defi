@@ -1,0 +1,9 @@
+[submodule "futureX_backend"]
+	path = futureX_backend
+	url = https://github.com/Sribabu-Mandraju/futureX_backend.git
+[submodule "futureX"]
+	path = futureX
+	url = https://github.com/Sribabu-Mandraju/futureX.git
+[submodule "FutureX-Smart-Contracts"]
+	path = FutureX-Smart-Contracts
+	url = https://github.com/Nandeesh-D/FutureX-Smart-Contracts.git
