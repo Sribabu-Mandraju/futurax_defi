@@ -44,7 +44,7 @@ For developers interested in running the project locally:
 - **Ethers.js & Web3.js** – Enables seamless communication between the frontend and blockchain.
 - **Oracle Services** – Fetches real-world event outcomes to determine winners.
 
-![Technology Stack](https://github.com/user-attachments/assets/e2c592e4-a5b0-4ad7-9e2e-ac79d42f5c0f))
+![Technology Stack](https://github.com/user-attachments/assets/e2c592e4-a5b0-4ad7-9e2e-ac79d42f5c0f)
 
 ## How It Works
 1. **Users Select a Market** – Choose from categories like sports, finance, or politics.
