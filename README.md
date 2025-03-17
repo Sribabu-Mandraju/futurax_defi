@@ -25,15 +25,15 @@ For developers interested in running the project locally:
 
 ### Frontend Setup
 1. Navigate to the `web` directory.
-2. Follow the installation steps in [Frontend README](https://github.com/your-repo/futurax-frontend/blob/main/README.md).
+2. Follow the installation steps in [Frontend README](https://github.com/Sribabu-Mandraju/futureX/blob/main/README.md).
 
 ### Backend Setup
 1. Navigate to the `backend` directory.
-2. Follow the installation steps in [Backend README](https://github.com/your-repo/futurax-backend/blob/main/README.md).
+2. Follow the installation steps in [Backend README](https://github.com/Sribabu-Mandraju/futureX_backend/blob/main/README.md).
 
 ### Smart Contract Deployment
 1. Navigate to the `contracts` directory.
-2. Follow the instructions in [Contracts README](https://github.com/your-repo/futurax-contracts/blob/main/README.md).
+2. Follow the instructions in [Contracts README](https://github.com/Nandeesh-D/FutureX-Smart-Contracts/blob/main/README.md).
 
 ## Technologies Used
 ### **Frontend:**
